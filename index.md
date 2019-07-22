@@ -4,7 +4,7 @@ Welcome to my [Github Pages](https://pages.github.com) website.
 Here you can learn about the things I do for fun, my [projects](./projects.md), some off topics things [here](./blog/) and there.
 Don't hesitate to drop me a [line](mailto:bcalpages@gmail.com) if you are interested
 
-#Site map
+# Site map
 
 ![Map](https://bcallebaut.github.io/map-1272165_640.png)
  - [Projects](./projects.md) : The personnal projects I work on
