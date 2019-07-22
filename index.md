@@ -1,7 +1,8 @@
 # Welcome
-Welcome to my Github Pages website.
+Welcome to my [Github Pages](https://pages.github.com) website.
 
-This is a frontend to some of my Github projects.
+Here you can learn about the things I do for fun, my [projects](./projects.md), some off topics things [here](./blog/) and there.
+Don't hesitate to drop me a [line](mailto:bcalpages@gmail.com) if you are interested
 
 # Midi Live Manager
 Your perfect sidekick for Live perfomance 
@@ -12,3 +13,5 @@ The only hacker friendly platform for music creation
 
    [The Midi Live Manager](./midilive/index.md)
 
+# References and copyrights
+   Click [here](./references.md) to see where I found the stuff I use or which toolt I used.
