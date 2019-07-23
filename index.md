@@ -9,5 +9,10 @@ Don't hesitate to drop me a [line](mailto:bcalpages@gmail.com) if you are intere
  - [Blog](./blog/) : Stuffs that does'nt really fit in a project
  - [Useful links](./misc/) : The things I use, I found interesting
 
+# Blog
+---
+layout: home
+---
+
 # References and copyrights
    Click [here](./references.md) to see where I found the stuff I use or which toolt I used.
