@@ -1,8 +1,8 @@
-# Midi Live Manager
+# [Midi Live Manager](.:midilive/index.md)
 First incarnation of the [Modular Open Digital Synthetizer](./mods/mods.md)(MODS)
 
 It brings the most comprehensive set of MODS modules to bring you a compact yet feature packed device for your everyday use.
->
+
 ## For Live Performance
 >
  - __Programmable Quick Access Buttons__ : change settings in a single touch
@@ -19,25 +19,27 @@ It brings the most comprehensive set of MODS modules to bring you a compact yet 
  - __Multitrack Recording__ : Because music is about audio and feelings. You don't want to loose them.
  - __Synth__ :A synth right at hand. Combines classical sampling, wavetable and more
 
+Meet the [Midi Live Manager](.:midilive/index.md)
+
 # Modular Open Digital Synthetizer
->
-> Because music is Unique.
->
-> Because Musician are Unique.
->
-> Everybody deserves its own instrument
->
-> People did it with Modular analog synthetizer ([Eurorack](https://en.wikipedia.org/wiki/Eurorack))
->
-> Lets do it with digital synthetizer
->
-> Let's meet the [Modular Open Digital Synthetizer System](./mods.mods.md)
+
+ Because music is Unique.
+
+ Because Musician are Unique.
+
+ Everybody deserves its own instrument
+
+ People did it with Modular analog synthetizer ([Eurorack](https://en.wikipedia.org/wiki/Eurorack))
+
+ Lets do it with digital synthetizer
+
+ Let's meet the [Modular Open Digital Synthetizer System](./mods.mods.md)
 
 ## For the Hacker
 >
  - __Modular__ : Put what you need, no more, no less 
  - __Scalable__ : Add more midi ports, more sound modules, more audio I/O as you grow
- - __customizable__ : Your functionality is not available ? Make it, put it in. Be Software or hardware, play with it.
+ - __Customizable__ : Your functionality is not available ? Make it, put it in. Be Software or hardware, play with it.
 
 # Smart HSM
 How do you value your  At lot more than commercial products. A lot less than us.
