@@ -1,5 +1,4 @@
-# [Midi Live Manager](.:midilive/index.md)
-First incarnation of the [Modular Open Digital Synthetizer](./mods/mods.md)(MODS)
+The [Midi Live Manager](./midilive/index.md) is the first incarnation of the [Modular Open Digital Synthetizer](./mods/mods.md)(MODS)
 
 It brings the most comprehensive set of MODS modules to bring you a compact yet feature packed device for your everyday use.
 
@@ -19,7 +18,7 @@ It brings the most comprehensive set of MODS modules to bring you a compact yet 
  - __Multitrack Recording__ : Because music is about audio and feelings. You don't want to loose them.
  - __Synth__ :A synth right at hand. Combines classical sampling, wavetable and more
 
-Meet the [Midi Live Manager](.:midilive/index.md)
+Meet the [Midi Live Manager](./midilive/index.md)
 
 # Modular Open Digital Synthetizer
 
@@ -33,7 +32,7 @@ Meet the [Midi Live Manager](.:midilive/index.md)
 
  Lets do it with digital synthetizer
 
- Let's meet the [Modular Open Digital Synthetizer System](./mods.mods.md)
+ Let's meet the [Modular Open Digital Synthetizer System](./mods/mods.md)
 
 ## For the Hacker
 >
