@@ -1,3 +1,6 @@
+---
+title : Projects
+---
 # Midi Live Manager
 The [Midi Live Manager](./midilive/index.md) is the first incarnation of the [Modular Open Digital Synthetizer](./mods/mods.md)(MODS)
 

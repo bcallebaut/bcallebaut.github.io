@@ -1,3 +1,6 @@
+---
+title: Midi Live Manager
+---
 # From a Midi controller to a music production manager
 
 The Midi Live Manager is a midi controller but its is also a lot more. It is also your communication hub for midi infromation and an open platform that allows you to load the functionality you need.
