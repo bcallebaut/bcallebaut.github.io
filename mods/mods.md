@@ -1,3 +1,6 @@
+---
+title: Modular Open Digital System (MODS)
+---
 # [History](./history.md)
 Fitst, history began with analogic circuits like VCO, VCA and VCF. THis is the era of modular synthetizers like the [Moog](https://www.moogmusic.com/)
 
@@ -7,7 +10,7 @@ Those synthetizers were limited but quickly expannded in functionality. They are
 
 ![DX7](./dx7.png)
 
-THeir evoliution follows the evolution of computers with first specialized circuits, later on digital signal processors and finally now with powerful processors.
+Their evoliution follows the evolution of computers with first specialized circuits, later on digital signal processors and finally now with powerful processors.
 
 This evolution led to the computer era where the synthetizers are now emulated on computers and even on tablets.
 THese synthetizers allows the user to carry a vast range of sounds in a tiny form factor but they don't provide the same level of realtime control 
