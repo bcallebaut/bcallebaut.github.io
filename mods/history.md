@@ -1,9 +1,12 @@
+---
+title: History
+---
 # Analogic Age
-![VCO](./modes/vco.png)
+![VCO](./vco.png)
 
 In 1964, Bob Moog met Herbert Deutsch and created the first voltage controlled oscillator and amplifier module with a keyboard.
 THe first [MOOG](https://www.moogmusic.com/) was born.
-![Moog 921](./modes/moog921.png)
+![Moog 921](./moog921.png)
 
 Years later, the moog system was a great success and a big community of hackers had formed around it. 
 
@@ -18,7 +21,7 @@ Modules plugged in it provide a wide range of functtionality like:
  - ...
 
 # Digital Age
-![DX7](./mods/dx7.png)
+![DX7](./dx7.png)
 
 Beginning of 1980 years, synthetizer became digital 
 The main difference is that digital synthetizer are working with digital circuitry instead of analog circuitry.
