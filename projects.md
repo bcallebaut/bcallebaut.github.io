@@ -13,8 +13,7 @@ title : Projects
 
  __MODS__ is always with you
 
-
-           ![Arrow](./arrow_right.png) __MODS__ , the first maker friendly digital synthetizer platform 
+![Arrow](./arrow_right.png) __MODS__ , the first maker friendly digital synthetizer platform 
  
 Meet the [Modular Open Digital Synthetizer System __Now__](./mods/mods.md)
 

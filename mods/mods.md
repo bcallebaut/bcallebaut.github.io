@@ -1,7 +1,7 @@
 ---
 title: Modular Open Digital System (MODS)
 ---
-  ![Arrow](./arrow_right.png) __MODS__ , the first maker friendly digital synthetizer platform 
+  ![Arrow](../arrow_right.png) __MODS__ , the first maker friendly digital synthetizer platform 
 
 MODS is :
   - Open modular platform for __makers__ : play with it, improve it. it made for it
