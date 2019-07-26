@@ -1,6 +1,23 @@
 ---
 title : Projects
 ---
+# Modular Open Digital Synthetizer
+>
+ Because music is __creativity__.
+>
+ Because __technology__ makes your life easier
+>
+ Because __mobility__ is important
+>
+ Because __music__ is you
+
+ __MODS__ is always with you
+
+
+           ![Arrow](./arrow_right.png) __MODS__ , the first maker friendly digital synthetizer platform 
+ 
+Meet the [Modular Open Digital Synthetizer System __Now__](./mods/mods.md)
+
 # Midi Live Manager
 The [Midi Live Manager](./midilive/index.md) is the first incarnation of the [Modular Open Digital Synthetizer](./mods/mods.md)(MODS)
 
@@ -23,20 +40,6 @@ It brings the most comprehensive set of MODS modules to bring you a compact yet 
  - __Synth__ :A synth right at hand. Combines classical sampling, wavetable and more
 
 Meet the [Midi Live Manager](./midilive/index.md)
-
-# Modular Open Digital Synthetizer
-
- Because music is Unique.
-
- Because Musician are Unique.
-
- Everybody deserves its own instrument
-
- People did it with Modular analog synthetizer ([Eurorack](https://en.wikipedia.org/wiki/Eurorack))
-
- Lets do it with digital synthetizer
-
- Let's meet the [Modular Open Digital Synthetizer System](./mods/mods.md)
 
 ## For the Hacker
 >

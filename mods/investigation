@@ -1,0 +1,48 @@
+The investigation goes along several axes :
+ - __Hardware__ : which components are good candidates to be part of the final product
+ - __Software__ : Which software building blocks (Operating Systems, Libraries...) are good candidates for the final product.
+ - __Application__ : Which kind of applications are a good fit for the final product(s)
+ - __Tooling__ : Which tools to use in order to support the project
+
+# Hardware
+
+## Microcontroller
+According to the [requirement document](requirements.md) and the [architecture document](architecture.md) the microcontroller are divided in to the following categories,
+each one with specific requirements.
+
+### IO and Communication
+ - LCD panel Interface
+ - HDMI interface
+ - USB 2.0/3.0 Host interface
+ - USB 2.0/3.0 device interface
+ - Ethernet 100MBit/1GBit
+ - Capacitive touch capability
+ - SDHC/SDIO
+
+  These microcontroller don't process sensitive data. As such tampering is not a big deal.
+  It will alter the functionality of the module but no critical data will be breached.
+
+  - Microchip SAM3/SAM4 microcontroller are good candidates as they support capacitive touch. PIC32 are also potential candidates. Extensive documentation exist for capacitive sensing
+  - MSP430 from TI are also a good candidate
+  - NXP Kietis KE1SZ are also candidates.
+  - STMicroelectronics STM32 support also Capacitive touch
+
+### Audio/midi data routers
+  - High Number of serial port (MIDI ports)
+  - High number of I2S port
+
+   In this category, the following processors are good candidates:
+   - NXP LPC 558x, LPC55S6X
+   - Microchip PIC32MFDA, SAME5
+
+### Audio processors
+  - DSP functionality
+  - High MIPS/FLOP
+  - UART
+  - Audio Interfaces (I2S/McASP)
+
+  Good Candidates are :
+  - TI DSP TMS320C67xx
+  - TI DSP  66K2G12
+  - TI AM3358/ OSD3558
+  - Octavo systems OSD32MP15x

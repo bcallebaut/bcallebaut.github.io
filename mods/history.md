@@ -41,3 +41,5 @@ Note that while they provide a lot of functionalities and are very compact ( sof
 they also don't provide the same level of real-time control and ease of control.
 
 They are mainly useful for production purpose where realtime control isn't a primary constraint.
+
+![VCV Rack]()./virtualsynth.png)
