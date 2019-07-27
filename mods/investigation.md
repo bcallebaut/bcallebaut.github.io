@@ -1,3 +1,6 @@
+---
+title: Investigations
+---
 The investigation goes along several axes :
  - __Hardware__ : which components are good candidates to be part of the final product
  - __Software__ : Which software building blocks (Operating Systems, Libraries...) are good candidates for the final product.

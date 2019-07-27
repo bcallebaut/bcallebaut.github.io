@@ -1,3 +1,6 @@
+---
+title: Policies
+---
 # Software
  - Use of Open source tools
  - GitHub
