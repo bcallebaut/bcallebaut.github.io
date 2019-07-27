@@ -7,9 +7,9 @@ title : Projects
 >
  Because __technology__ makes your life easier
 >
- Because __mobility__ is important
+ Because your are __mobile__
 >
- Because __music__ is you
+ Because you are the __music__
 
  __MODS__ is always with you
 

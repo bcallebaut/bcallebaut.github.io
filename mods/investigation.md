@@ -42,7 +42,7 @@ each one with specific requirements.
   - Audio Interfaces (I2S/McASP)
 
   Good Candidates are :
-  - TI DSP TMS320C67xx
-  - TI DSP  66K2G12
-  - TI AM3358/ OSD3558
-  - Octavo systems OSD32MP15x
+  - TI DSP T[MS320C6748](http://www.ti.com/product/TMS320C6748)
+  - TI DSP [66K2G12](http://www.ti.com/product/66AK2G12)
+  - TI AM3358/ [OSD3558](https://octavosystems.com/octavo_products/osd335x-c-sip/)
+  - Octavo systems [OSD32MP15x](https://octavosystems.com/octavo_products/osd32mp15x/)
