@@ -35,8 +35,8 @@ each one with specific requirements.
   - High number of I2S port
 
    In this category, the following processors are good candidates:
-   - NXP LPC 558x, LPC55S6X
-   - Microchip PIC32MFDA, SAME5
+   - NXP LPC 558x, [LPC55S6X](https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/general-purpose-mcus/lpc5500-cortex-m33/high-efficiency-arm-cortex-m33-based-microcontroller-family:LPC55S6x)
+   - [Microchip](https://www.microchip.com) PIC32MFDA, SAME5
 
 ### Audio processors
   - DSP functionality
