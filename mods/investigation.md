@@ -49,3 +49,37 @@ each one with specific requirements.
   - TI DSP [66K2G12](http://www.ti.com/product/66AK2G12)
   - TI AM3358/ [OSD3558](https://octavosystems.com/octavo_products/osd335x-c-sip/)
   - Octavo systems [OSD32MP15x](https://octavosystems.com/octavo_products/osd32mp15x/)
+
+### Bela Cape
+[Bel Cape](https://www.hackster.io/112305/bela-low-latency-audio-sensor-cape-for-pocketbeagle-1615e0) provides a nice set of capes for PocketBeagle and the BeagleBoard.
+
+# Software
+
+## Virtual Rack 
+ [VCV](https://github.com/VCVRack/Rack) provides a nice GUI for Virtual Effects based on Eurorack Modules.
+
+
+# References
+ - [History of synth](https://www.hi5electronics.co.uk/a-brief-history-of-synthesizers/)
+ - [Digital Waveguide Mesh](https://reuk.github.io/wayverb/waveguide.html) A sound synthesis technique
+ - [SyntherJack](https://syntherjack.net/) Some Stuff for DIY synth makers.
+ - [Sonic-PI](https://sonic-pi.net/) : Learn programming by making music. For kids and adults.
+ - [Pro Audio Files](https://theproaudiofiles.com/) About Music Production
+ - [Pure Data](https://puredata.info/) Pure Data is an open source visual programming language for multimedia.
+ - [CSound](https://csound.com/) Csound is a sound and music computing system
+ - [Faust](https://faust.grame.fr/) Faust (Functional Audio Stream) is a functional programming language for sound synthesis and audio processing
+ - [SuperCollider](https://supercollider.github.io/) SuperCollider is a platform for audio synthesis and algorithmic composition
+ - [Free Music Sound Sites](https://designmodo.com/free-music-sounds/) If you ever need free sounds.
+ - [Physical Sound synthesis](http://homes.esat.kuleuven.be/~bdmdotbe/bdm2013/documents/doc_080327_14.10.pdf) 
+ - [Introduction to Computer Music](http://www.indiana.edu/~emusic/etext/toc.shtml) from Jeffrey Hass Indiana University
+
+# Product References
+## Pogo Pins and Connectors
+ - [Hyte](https://www.hyte.pro/product/m411p.html) Chinese manufacturer of magnetic connectors
+ - [Zhenghe](http://www.pogopin.net/Item/Show.asp?m=2&d=894) Chinese manufacturer
+ - [NH-Technology](https://www.nh-technology.de/en/federkontakt/federkontakte) A German company
+## Digital Audio Workstation 
+ - [QTractor](https://qtractor.sourceforge.io/qtractor-index.html#Intro) A DAW written in C++ with the QT framework.
+ - [Ardour](https://ardour.org/) a DAW written in C++ based on GTK+ toolkit
+ - [Audacity](https://www.audacityteam.org/) a DAW written in C++ using Wx Widgets
+ - [VST Plugin SDK](https://github.com/steinbergmedia) directly from [Steinberg](http//www.steinberg.net)

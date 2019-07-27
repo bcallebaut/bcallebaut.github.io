@@ -1,11 +1,11 @@
----
-title: Requirements
----
+
 # MIDI Ports
  Mandatory
  - 1 external MIDI In/Midi Out
  - 1 internal MIDI In/Midi Out
- Preferred
+ Preferred---
+title: Requirements
+---
  - 4 external MIDI In/Midi Out
  - 4 internal MIDI In/Midi Out
 
