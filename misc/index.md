@@ -1,3 +1,9 @@
+---
+title: How-tos and References
+---
+
+Hereunder can you find a list of how-tos I validated myself on various topics.
+
 # How-tos
    - [How to build a Linux kernel out of tree](./outputmakefile.md) 
 
