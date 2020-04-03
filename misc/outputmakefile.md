@@ -1,4 +1,3 @@
-# Introduction
 Bulding source code out of the source tree is a good practive in order to avoid cluttering your source tree.
 It makes also the cleaning of the source tree much easier as you only have to remove the build tree. It allows you also to keep multiple build trees with different configurations
 
